@@ -12,7 +12,7 @@ A full-stack Task Manager application built with **Node.js**, **Express**, and *
 - Priority levels (Low, Medium, High)
 - Frontend connected to the backend using REST API
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 task-manager-api/
@@ -54,7 +54,7 @@ task-manager-api/
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nebilsefawdin-ops/task-manager.git
 ```
 
 ### Install backend dependencies
