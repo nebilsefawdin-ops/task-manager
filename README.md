@@ -126,7 +126,7 @@ Create a `.env` file inside the backend folder.
 
 ```env
 PORT=4000
-APP_NAME=Task Manager API
+APP_NAME=Task Manager
 ```
 
 ## Author
