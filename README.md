@@ -9,7 +9,6 @@ A full-stack Task Manager application built with **Node.js**, **Express**, and *
 - Add a new task
 - Update an existing task
 - Delete a task
-- Mark a task as completed
 - Priority levels (Low, Medium, High)
 - Frontend connected to the backend using REST API
 
